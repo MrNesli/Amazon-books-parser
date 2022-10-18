@@ -1,4 +1,5 @@
-# Amazon-books-parser
+# Amazon-books-scraper
+
 Web scraping script for amazon.fr with Firefox browser
 
 Usage:
